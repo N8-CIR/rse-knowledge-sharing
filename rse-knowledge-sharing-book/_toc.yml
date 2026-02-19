@@ -4,6 +4,9 @@
 format: jb-book
 root: index
 chapters:
+- file: rse-knowledge-sharing/newsletters/index
+  sections:
+  - file: rse-knowledge-sharing/newsletters/2026/02/N8CIR RSE Newsletter 2026-02
 - file: rse-knowledge-sharing/blog-posts/index
   sections:
   - file: rse-knowledge-sharing/blog-posts/2026/02/N8CIR RSE Leaders Event Feb 2026
