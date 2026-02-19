@@ -1,3 +1,5 @@
+# N8CIR RSE Newsletter - Feb 2026
+
 See below for events, opportunities and learning from the N8CIR RSE Community.
 
 If you would like to contribute to this newsletter please respond to this email or complete our [newsletter form](https://www.qualtrics.manchester.ac.uk/jfe/form/SV_01bH66mnXVkYHKC).
@@ -7,8 +9,8 @@ If you would like to contribute to this newsletter please respond to this email 
 ### N8CIR Summer Internships 2026
 ⏰Deadline for project submission: 6th March
 
-Supervisors and students please **Submit your application** by 6th March. 
-Internships are open to RSEs, academics and other digital Research Technical Professionals. 
+Supervisors and students please **Submit your application** by 6th March.
+Internships are open to RSEs, academics and other digital Research Technical Professionals.
 More details can be found on our [N8 CIR Internship application page](https://n8cir.org.uk/internships/internship-application/)
 
 ## Events
