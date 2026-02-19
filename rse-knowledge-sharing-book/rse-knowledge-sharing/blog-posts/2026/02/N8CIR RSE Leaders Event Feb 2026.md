@@ -5,14 +5,15 @@ We covered everything from growing teams, working with other departments to deve
 
 Many thanks to [Sorrel Harriet](https://www.linkedin.com/in/sorrelharriet/) and the [University of Leeds](https://www.linkedin.com/company/university-of-leeds/) RSE team for helping set up the event. Thanks to our workshop leads [Kate Jennings Coaching](https://www.linkedin.com/company/kate-jennings-coaching/) and [Martin Callaghan](https://www.linkedin.com/in/martin-c-6a4631231/), and our speakers [Phil Harrison](https://www.york.ac.uk/it-services/tools/research/research-it/software-engineers/), [Adrian Harwood](https://www.linkedin.com/in/adrianharwood/), [Paul Graham](https://www.linkedin.com/in/paul-graham-59026513/), [Patricia Ternes](https://www.linkedin.com/in/patricia-ternes/), Adina Rahim(UofManchester), Phil Bradbury(UofManchester).
 
-If you would like to contribute or comment on this blog post please head to the [github copy](https://github.com/N8-CIR/rse-knowledge-sharing).
+If you would like to contribute or comment on this blog post please head to the [github copy](https://n8-cir.github.io/rse-knowledge-sharing/rse-knowledge-sharing/blog-posts/2026/02/N8CIR%20RSE%20Leaders%20Event%20Feb%202026.html).
 
 **The process for writing this blog post including GenAI.** Details below:
 
-	Shorthand minutes were taken by Sam Bland at the meeting. After the meeting these were grouped into key categories and expanded upon with support from the presentation slides used. This was edited into a rough draft blog post. Each section was then copied to an Enterprise version of Google Gemini that does not retain the data. Outputs feedback from Gemini was used to refine the blog into its final state.
+>	Shorthand minutes were taken by Sam Bland at the meeting. After the meeting these were grouped into key categories and expanded upon with support from the presentation slides used. This was edited into a rough draft blog post. Each section was then copied to an Enterprise version of Google Gemini that does not retain the data. Outputs feedback from Gemini was used to refine the blog into its final state.
 
 ## Agenda
-Morning: Presentation led open discussion
+
+**Morning**: Presentation led open discussions
 
 ### Philip Harrison - University of York Update and Setting the Scene
 I oversee the deployment of RSEs across research projects and advise academics on the support and facilities available at the University. I’m particularly interested in helping researchers in the Arts, Humanities, and Social Sciences use computing tools and technology. I also develop software, typically for projects involving speech and audio across a range of departments. My background is in acoustic engineering, linguistics, and forensic science.
@@ -23,7 +24,7 @@ Since 2022, Adrian has been the Head of Research Software Engineering, leading a
 ### Patricia Ternes
 Dr Patricia Ternes leads the Research Computing Team at the University of Leeds, supporting high-quality research through research software engineering and high-performance computing. She fosters collaboration between research colleagues, IT Services, and the broader university community to ensure that computational research is sustainable, impactful, and aligned with future needs.
 
-**Post lunch:**
+**Post lunch:** Presentations and Workshops
 
 ### Adina Rahim
 Adina is a Research Software Engineer in Research IT at the University of Manchester. She presented on the DisCouRSE funded project Agile Leadership Training for Digital Research Technical Professionals: An Integrated Pilot. This project addresses a recognised gap in Agile leadership training for digital Research Technical Professionals (dRTPs) across University College, London (UCL) and N8 institutions.
@@ -99,7 +100,7 @@ In addition to external provider costs there are also ongoing internal costs tha
 ### Recruitment and Load Balancing
 There are still challenges related to balancing supply and demand of RSE time. Adrian Harwood presented some data from their initial use of CapX to show the delay between changes in demand and in RSE time capacity. This issue was reflected by anecdotal evidence from other RSE leaders. As mentioned previously this is strongly influenced by low appetite for risk and investment in new hires prior to funding being confirmed. Funding models also affect this when work must be invoiced after completion.
 This combined with long lead times for recruitment can result in a large gap in capacity at the start of the project and then a surplus of capacity when the project has completed. Some institutions define a limit to surplus FTE as 2.0.
-This was also discussed in more detail in our [Recruitment and Diversity online Workshop in January](INSERT LINK)
+This was also discussed in more detail in our **Recruitment and Diversity online Workshop in January** link to follow.
 
 
 ### Team Structure
@@ -170,11 +171,15 @@ The key take away from this condensed AI discussion was the value of a opportuni
 Although the points above have been a useful extension to our ongoing knowledge base of RSE leadership the real value of these events has always been the day itself. The N8 RSE leaders group has developed into a highly engaged group keen to collaborate and share on tackling challenges faced by each institution. Discussions are candid and despite the range of experience and size of teams all voices are treated equally and have equal value to the discussion. With the opening up of the discussion to beyond just RSE team leads the team spirit was not diluted and instead appeared shared across all those that attended.
 This was all reflected in the positive feedback we received after the event including a few quotes below:
 
-	It worked really well, with interesting talks and plenty of time for socialising during breaks. I was able to feed useful information back to the team. Good location and food.
+>	It worked really well, with interesting talks and plenty of time for socialising during breaks. I was able to feed useful information back to the team. Good location and food.
 
-	My staff and colleagues face various institutional and operational challenges like all RSE teams. Knowing how others are addressing similar issues gives me an insight into how best to manage similar problems.
+>	My staff and colleagues face various institutional and operational challenges like all RSE teams. Knowing how others are addressing similar issues gives me an insight into how best to manage similar problems.
 
-	Very worthwhile. My presentation generated lots of discussion in the group. Was good to be able to give something back after getting input from others previously. The workshop in the afternoon on leadership/persuasion was much more interesting than I had expected it to be.
+>	Very worthwhile. My presentation generated lots of discussion in the group. Was good to be able to give something back after getting input from others previously. The workshop in the afternoon on leadership/persuasion was much more interesting than I had expected it to be.
 
-	The adaptive communications workshop and the AI workshop together have actually made me think about how I might harness GenAI more effectively
+>	The adaptive communications workshop and the AI workshop together have actually made me think about how I might harness GenAI more effectively
+
+
+
+Join the [N8CIR Mailing Lists](https://n8cir.org.uk/about/join-us/) to make sure you don't miss out on similar events.
 
