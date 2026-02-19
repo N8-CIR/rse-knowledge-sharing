@@ -4,6 +4,6 @@
 format: jb-book
 root: index
 chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+- file: rse-knowledge-sharing/blog-posts/index
+  sections:
+  - file: rse-knowledge-sharing/blog-posts/2026/02/
