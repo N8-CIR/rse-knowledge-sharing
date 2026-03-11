@@ -183,3 +183,6 @@ This was all reflected in the positive feedback we received after the event incl
 
 Join the [N8CIR Mailing Lists](https://n8cir.org.uk/about/join-us/) to make sure you don't miss out on similar events.
 
+## Links and Resources
+
+- \[presentation\] [Establishing an operational management Community of Practice for dRTP leaders](./_attachments/N8_CIR_Meetup_Feb2026__DisCouRSEBidOutcome_WithDetail.pdf)
