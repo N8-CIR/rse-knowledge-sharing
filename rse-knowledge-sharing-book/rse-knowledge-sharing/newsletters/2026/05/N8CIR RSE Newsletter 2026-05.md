@@ -1,3 +1,5 @@
+# N8CIR RSE Newsletter - May 2026
+
 See below for events, opportunities and learning from the N8CIR RSE Community.
 
 If you would like to contribute to this newsletter please respond to this email or complete our [newsletter form](https://www.qualtrics.manchester.ac.uk/jfe/form/SV_01bH66mnXVkYHKC).
