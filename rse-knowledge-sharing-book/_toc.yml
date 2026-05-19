@@ -11,3 +11,6 @@ chapters:
 - file: rse-knowledge-sharing/blog-posts/index
   sections:
   - file: rse-knowledge-sharing/blog-posts/2026/02/N8CIR RSE Leaders Event Feb 2026
+- file: rse-knowledge-sharing/guides/index
+  sections:
+  - file: rse-knowledge-sharing/guides/events/index
