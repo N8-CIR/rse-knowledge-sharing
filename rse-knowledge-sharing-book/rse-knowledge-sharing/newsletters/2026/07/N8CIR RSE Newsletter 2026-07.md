@@ -6,8 +6,6 @@ As the academic year draws to a close, many of us will unplugging from our machi
 
 If you would like to contribute to this newsletter please respond to this email or complete our [newsletter form](https://www.qualtrics.manchester.ac.uk/jfe/form/SV_01bH66mnXVkYHKC).
 
-[Github Pages version of this post UPDATE ME](https://n8-cir.github.io/rse-knowledge-sharing/rse-knowledge-sharing/newsletters/2026/05/N8CIR%20RSE%20Newsletter%202026-05.html)
-
 ## Upcoming Events
 ### Leeds Digital Festival
 Tentative date: 29th September
