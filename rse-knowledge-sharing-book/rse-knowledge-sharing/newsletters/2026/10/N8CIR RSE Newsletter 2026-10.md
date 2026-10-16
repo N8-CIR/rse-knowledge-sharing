@@ -34,8 +34,8 @@ The research infrastructure engineer (RIE) community and co-design days bring to
 The day will combine short, scene-setting talks to guide the day's discussions and structured interactive sessions where participants will explore and develop RIE training ideas.
 This RIE community and co-design day will build on the discussions and priorities identified in previous ACIT Hub co-design events, where research infrastructure engineers (RIEs) highlighted key training topics and preferred formats (e-learning, hackathons, webinars, in person courses). The focus of the co-design part of the day is to move from “what we need” to “how we design it”; developing concrete training plans that ACIT Hub can take forward into course and event development.
 
-  For more details and registration please visit:
-  [https://acit.surrey.ac.uk/events/2026-11-11_CodesignEdinburgh.html [acit.surrey.ac.uk]](https://urldefense.com/v3/__https://acit.surrey.ac.uk/events/2026-11-11_CodesignEdinburgh.html__;!!PDiH4ENfjr2_Jw!GI-aZAmEAF24v0tWa4ENmyPyUX5HXI-6_Y8Am0p0v2MsiyTDHq5GSlsPWLvYps4J9bLEImMmenpTcmIFykR-9G2CqZI5$)
+For more details and registration please visit:
+  [https://acit.surrey.ac.uk/events/2026-11-11_CodesignEdinburgh.html](https://acit.surrey.ac.uk/events/2026-11-11_CodesignEdinburgh.html)
 
 ## News
 
