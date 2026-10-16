@@ -43,7 +43,7 @@ For more details and registration please visit:
 
 What a turnout and buzz of the sharing of ideas and the building of future Academia + Industry collaborations! This event was a collaboration between N8CIR and University of Leeds ARC team to bring together academics, RSEs and industry professionals to discuss how we can collaborate and knowledge share in the future.
 We had attendees representing academia and industry from student to expert and a poster and talk offer to match. A relaxed networking session before and after the presentations revealed many collaboration opportunities from trusted research environments to job transitions.
-Read our [blog post]() on the event for a more in depth review and our thoughts for next steps.
+Read our [blog post](https://n8-cir.github.io/rse-knowledge-sharing/rse-knowledge-sharing/blog-posts/2026/10/Digital%20Research%20Futures%20Showcasing%20Talent%2C%20Technology%20and%20Research%20Impact.html) on the event for a more in depth review and our thoughts for next steps.
 
 ### N8CIR Internships 2026
 
