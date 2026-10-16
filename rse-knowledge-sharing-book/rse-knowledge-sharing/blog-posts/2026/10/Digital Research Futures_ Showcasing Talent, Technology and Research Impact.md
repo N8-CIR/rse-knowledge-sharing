@@ -1,4 +1,4 @@
-# Post Event Blog Post
+# [Event] Digital Research Futures: Showcasing Talent, Technology and Research Impact
 
 ![Photo of people networking at the event](_attachments/Picture2.jpg)
 

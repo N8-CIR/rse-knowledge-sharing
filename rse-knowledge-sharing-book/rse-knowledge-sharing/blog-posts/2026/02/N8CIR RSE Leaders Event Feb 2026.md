@@ -1,4 +1,4 @@
-# N8CIR RSE Leaders and Aspiring Leaders Event Feb 2026
+# [Event] N8CIR RSE Leaders and Aspiring Leaders Event Feb 2026
 
 Well that was another whistle stop tour of all the goings on at the leadership and strategic level of RSE teams across the N8. It was a great turnout of RSE leaders and aspiring leaders from across the N8CIR.
 We covered everything from growing teams, working with other departments to develop finance policies, data management, agile and evidence based project management, influencing styles and ending with a dip into the latest responses to AI.
